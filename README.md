@@ -1,3 +1,3 @@
-# educational-projects
+# data analysis and machine learning 
 
 В этом репозитории представлены мои учебные проекты по анализу данных и машинному обучению. 
